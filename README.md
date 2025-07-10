@@ -1,60 +1,68 @@
-<!-- Banner Section -->
+<!-- BANNER -->
 <p align="center">
-  <img src="https://your-banner-link.com/banner.png" alt="banner" width="100%" />
-</p>
-
-<h2 align="center">Hi, I'm [Your Name] 👋</h2>
-<p align="center">🚀 A Web Developer in making | 💡 Tech Explorer | 📘 Problem Solver</p>
-
----
-
-### 👨‍🎓 About Me
-
-I'm a [Your Year] year student pursuing [Your Degree] from [Your University Name] 🎓.  
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💻.  
-I love to explore new technologies and leverage them to solve real-life problems ✨.  
-Apart from that, I also love to guide and mentor newbies 🌱.  
-
-Currently, I'm focusing on **Web Development** and working on improving my **Data Structures and Algorithms** skills 🧠.
-
----
-
-### 🛠️ Technology Stack:
-
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
----
-
-### 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="Streak Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+%5BYour+Name%5D;Web+Developer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%92%96;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📫 Reach Me At:
+<h2 align="center">🛸 About Me</h2>
 
-- 📧 Email: [your-email@gmail.com]
-- 🌐 Portfolio: [https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
-- 🐦 Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
+🌟 I'm a passionate **Full Stack Developer** from [🌍 Your Country]  
+🚀 I love to build fast, responsive web apps and explore new tech trends  
+🎯 Currently focusing on: **React ⚛️**, **Node.js 🔧**, **Next.js**, and **AI-based apps 🤖**
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,git,github,vscode,tailwind,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&border_radius=10" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
+---
+
+### 🪄 Fun Tools & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=gruvbox&row=1&no-frame=true&no-bg=true" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧠 Random Dev Quote
+
+> <i>“Code is like humor. When you have to explain it, it’s bad.”</i> – Cory House
+
+---
+
+### 🎮 Fun Fact
+
+🕹️ I break stuff so I can fix it better.  
+🔁 Ctrl + C & Ctrl + V is my superpower. 😎
 
 ---
 
