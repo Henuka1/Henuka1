@@ -16,9 +16,8 @@
   <img src="https://img.shields.io/github/followers/henuka1?label=Followers&style=flat&color=0e75b6" alt="Followers" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/henuka1?style=flat&color=0e75b6" alt="Stars" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/public-repos/henuka1?style=flat&color=0e75b6" alt="Repositories" />
 </p>
+
 
 
 
