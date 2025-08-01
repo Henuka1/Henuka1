@@ -17,8 +17,9 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/henuka1?style=flat&color=0e75b6" alt="Stars" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/repos/henuka1?style=flat&color=0e75b6" alt="Repositories" />
+  <img src="https://img.shields.io/github/public-repos/henuka1?style=flat&color=0e75b6" alt="Repositories" />
 </p>
+
 
 
 ## 💻 About Me
