@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Henuka Fernando</h1>
-<h3 align="center">A passionate Software developer from Sri Lanka</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Hi+👋,+I'm+Henuka+Fernando;Software+Developer+from+Sri+Lanka" alt="Typing animation" />
+</p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
