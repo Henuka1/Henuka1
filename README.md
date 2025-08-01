@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Henuka Fernando</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henuka1&label=Profile%20views&color=0e75b6&style=flat" alt="henuka1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
