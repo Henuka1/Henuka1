@@ -28,6 +28,7 @@
 </p>
 
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/henuka1/assets/main/vertical-line.gif" width="5" height="300"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
+
