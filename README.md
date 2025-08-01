@@ -21,28 +21,15 @@
 
 
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-
 ## 💻 About Me
 
 Hi there! I'm a passionate **Web Developer** from 🇱🇰 Sri Lanka.
 
-- 💡 I build modern, responsive websites and web apps  
-- 🛠️ Frontend specialist: HTML, CSS, JavaScript, React  
-- 🧠 Learning backend tech: Node.js, Express, MongoDB  
-- 🧪 Exploring embedded systems with Arduino & ESP32  
+- 💡 I build modern, responsive websites and web apps
+- 🛠️ Frontend specialist: HTML, CSS, JavaScript, React
+- 🧠 Learning backend tech: Node.js, Express, MongoDB
+- 🧪 Exploring embedded systems with Arduino & ESP32
 - 🎥 I also create tech content on YouTube!
-
-    </td>
-    <td width="40%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Robot Animation" width="200px" />
-
-    </td>
-  </tr>
-</table>
 
 
 <h3>📫 Connect with Me</h3>
