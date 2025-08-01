@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=36BCF7&size=30&lines=Hi+👋,+I'm+Henuka+Fernando;A+Passionate+Software+Developer+from+Sri+Lanka;Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+🚀)](https://git.io/typing-svg)
 
-
+<h3 align="center">Henuka Fernando | Web Developer 🚀 | Frontend & Full Stack Enthusiast | Exploring Embedded Systems & IoT 🌐 | Sri Lanka 🇱🇰</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -9,7 +9,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henuka1&label=Profile%20views&color=0e75b6&style=flat" alt="henuka1" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+## 💻 About Me
+
+Hi there! I'm a passionate **Web Developer** from 🇱🇰 Sri Lanka.
+
+- 💡 I build modern, responsive websites and web apps
+- 🛠️ Frontend specialist: HTML, CSS, JavaScript, React
+- 🧠 Learning backend tech: Node.js, Express, MongoDB
+- 🧪 Exploring embedded systems with Arduino & ESP32
+- 🎥 I also create tech content on YouTube!
+
+<h3 align="left">📫 Connect with me:</h3>
+- 🌐 [Portfolio]
+- 💼 [LinkedIn]
+- 🐦 [Twitter]
+- 📷 [Instagram]
+- 📹 [YouTube]
 <p align="left">
 </p>
 
