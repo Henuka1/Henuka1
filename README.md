@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Hi+👋,+I'm+Henuka+Fernando;Software+Developer+from+Sri+Lanka" alt="Typing animation" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=36BCF7&size=30&lines=Hi+👋,+I'm+Henuka+Fernando;A+Passionate+Software+Developer+from+Sri+Lanka;Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+🚀)](https://git.io/typing-svg)
+
 
 
 <p align="center">
