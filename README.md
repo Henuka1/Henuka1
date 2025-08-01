@@ -10,7 +10,16 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henuka1&label=Profile%20views&color=0e75b6&style=flat" alt="henuka1" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=henuka1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/henuka1?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/henuka1?style=flat&color=0e75b6" alt="Stars" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/repos/henuka1?style=flat&color=0e75b6" alt="Repositories" />
+</p>
+
 
 ## 💻 About Me
 
