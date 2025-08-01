@@ -29,5 +29,5 @@
 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-%20-%23FF0080?style=for-the-badge&labelColor=FF0080&color=FF0080" width="10" height="300">
+  <img src="https://raw.githubusercontent.com/henuka1/assets/main/vertical-line.gif" width="5" height="300"/>
 </p>
