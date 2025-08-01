@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=36BCF7&size=30&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Henuka+Fernando;A+Passionate+Software+Developer+from+Sri+Lanka;Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=36BCF7&size=30&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Henuka+Fernando;A+Passionate+Software+Developer+from+Sri+Lanka;Welcome+to+my+GitHub+Profile%21;Let's+build+something+awesome+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 
 
 <h3 align="center">Henuka Fernando | Web Developer 🚀 | Frontend & Full Stack Enthusiast | Exploring Embedded Systems & IoT 🌐 | Sri Lanka 🇱🇰</h3>
