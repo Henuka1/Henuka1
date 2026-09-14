@@ -2,8 +2,8 @@ name: Generate Streak Stats
 
 on:
   schedule:
-    - cron: "17 3 * * *"   # UTC 3:17 AM - busy 00:00 slot එකෙන් ඉවත් කරලා, rate-limit congestion එක අඩු කරන්න
-  workflow_dispatch:        # Actions tab එකෙන් manually run කරන්නත් පුළුවන්
+    - cron: "17 3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,8 +11,10 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v5
+      - name: Checkout repository
+        uses: actions/checkout@v5
 
       - name: Generate Streak Stats
         uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
@@ -21,23 +23,26 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           THEME: tokyonight
           OUTPUT_PATH: github-streak-stats.svg
-        continue-on-error: true
-        id: streak_attempt1
 
-      - name: Retry once if first attempt failed
-        if: steps.streak_attempt1.outcome == 'failure'
-        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
-        with:
-          USERNAME: ${{ secrets.USER_NAME }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          THEME: tokyonight
-          OUTPUT_PATH: github-streak-stats.svg
+      - name: Publish SVG to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4.2.0
-        with:
-          target_branch: output
-          build_dir: .
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          mkdir -p /tmp/streak-output
+          cp github-streak-stats.svg /tmp/streak-output/
+
+          git fetch origin output || true
+
+          if git ls-remote --exit-code --heads origin output; then
+            git checkout output
+          else
+            git checkout --orphan output
+            git rm -rf . || true
+          fi
+
+          cp /tmp/streak-output/github-streak-stats.svg .
+
+          git add github-streak-stats.svg
+          git commit -m "Update streak stats" || echo "No changes to commit"
+          git push origin output
