@@ -2,7 +2,7 @@ name: Generate Streak Stats
 
 on:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "17 3 * * *"   # UTC 3:17 AM - busy 00:00 slot එකෙන් ඉවත් කරලා, rate-limit congestion එක අඩු කරන්න
   workflow_dispatch:
 
 permissions:
@@ -28,21 +28,17 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           mkdir -p /tmp/streak-output
           cp github-streak-stats.svg /tmp/streak-output/
-
+          rm -f github-streak-stats.svg
           git fetch origin output || true
-
           if git ls-remote --exit-code --heads origin output; then
             git checkout output
           else
             git checkout --orphan output
             git rm -rf . || true
           fi
-
           cp /tmp/streak-output/github-streak-stats.svg .
-
           git add github-streak-stats.svg
           git commit -m "Update streak stats" || echo "No changes to commit"
           git push origin output
